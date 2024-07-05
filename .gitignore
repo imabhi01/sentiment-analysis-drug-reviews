@@ -1,2 +1,4 @@
 drugsComTest_raw.tsv
 drugsComTrain_raw.tsv
+reviews_processed.csv
+reviews_processed.csv.gz
