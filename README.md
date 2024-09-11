@@ -5,3 +5,5 @@ Sentiment analysis of UCI dataset containing drug reviews using traditional ML m
 Dataset can be downloaded through the following link:
 
 https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com
+
+# Screenshots
